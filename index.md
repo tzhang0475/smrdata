@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/tzhang0475/smrdata/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ File              : index.md
+ Author            : tzhang
+ Date              : 19.01.2021
+ Last Modified Date: 19.01.2021
+ Last Modified By  : tzhang
+## Small Modular Reactor
+Small modular reactors (SMRs) are defined as nuclear reactors generally 300 MWe equivalent or less, designed with modular technology using module factory fabrication, pursuing economies of series production and short construction times.
 
 ### Markdown
 
@@ -35,3 +37,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+You can use the [editor on GitHub](https://github.com/tzhang0475/smrdata/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
