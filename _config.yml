@@ -1,0 +1,8 @@
+# File              : _config.yml
+# Author            : tzhang
+# Date              : 19.01.2021
+# Last Modified Date: 19.01.2021
+# Last Modified By  : tzhang
+title: Small Modular Reactor Roadmap
+description: Pridiction of SMR capacity from 2021 to 2050
+theme: jekyll-theme-leap-day
