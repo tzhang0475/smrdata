@@ -7,3 +7,5 @@ title: Small Modular Reactor Roadmap
 description: Pridiction of SMR capacity from 2021 to 2050
 remote_theme: twocolumn/hyde
 
+
+theme: jekyll-theme-minimal
