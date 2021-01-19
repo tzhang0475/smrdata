@@ -6,6 +6,9 @@
 ## Small Modular Reactor
 Small modular reactors (SMRs) are defined as nuclear reactors generally 300 MWe equivalent or less, designed with modular technology using module factory fabrication, pursuing economies of series production and short construction times.
 
+## Data Source
+Data listed in this page is taken from [SMR-dataprediction](https://github.com/yzsmr/SMR-dataprediction) by [yzsmr](https://github.com/yzsmr), who is a nuclear engineer and work at the IAEA as a Junior Professional Officer.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
